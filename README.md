@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishksingh441
+- 👋 Hi, I’m Manish Kumar Singh
 - 👀 I’m interested in ..data science.
 - 🌱 I’m currently learning ...R statistical ,python,sql
 - 💞️ I’m looking to collaborate on ...data project.
