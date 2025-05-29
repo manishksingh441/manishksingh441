@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manish Kumar Singh
-- 👀 I’m interested in ..data science.
-- 🌱 I’m currently learning ...R statistical ,python,sql
-- 💞️ I’m looking to collaborate on ...data project.
+- 👀 I’m interested in ..data science,DevOps and Cloud computing
+- 🌱 I’m currently learning ...R statistical ,python,sql,Docker,Kubernetes 
+- 💞️ I’m looking to collaborate on ...data project, Software Development,
  reach me ...@manishksingh441
 
 <!---
